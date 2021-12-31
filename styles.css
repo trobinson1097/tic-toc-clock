@@ -1,0 +1,14 @@
+/* Importing Open Sans Condensed Google font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+#digital-clock {
+ background-color: #6669ff;
+ width: 50%;
+ margin: auto;
+ padding-top: 50px;
+ padding-bottom: 50px;
+ font-family: 'Open Sans Condensed', sans-serif;
+ font-size: 96px;
+ text-align: center;
+ box-shadow: 0 4px 8px 0 rgba(49, 7, 202, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
